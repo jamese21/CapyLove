@@ -8,6 +8,4 @@ run 'ngrok http 3000' and take the https forwarding url and put it in the intera
 
 run 'node run commands.js' to register new commands before readding bot to servers.
 
-Built on top of the discord example bot provided in the documentation.
 Gifs are obtained through the Giphy API.
-https://github.com/discord/discord-example-app#running-app-locally
