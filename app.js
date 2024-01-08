@@ -10,7 +10,7 @@ import {
 import { VerifyDiscordRequest, DiscordRequest } from './utils.js';
 
 // Giphy API key
-const giphy_api_key = "LM2PvIOIXam2oFrrz3mHruv1grW9OZAJ";
+const giphy_api_key = "<REDACTED>";
 
 // Create an express app
 const app = express();
